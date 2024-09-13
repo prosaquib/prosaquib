@@ -21,7 +21,7 @@ Detail-oriented with strong knowledge of software development. Works at a fast p
 
 - **Version Control**: ![Static Badge](https://img.shields.io/badge/Git-black?style=flat-square&logo=git) ![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
 - **DevOps**: ![Static Badge](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker) ![Static Badge](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazonwebservices) ![Static Badge](https://img.shields.io/badge/GCP-black?style=flat-square&logo=googlecloud)
-## Contact With Me :handshake:
+## Connect With Me :handshake:
 <div align="left">
   <a href="https://www.linkedin.com/in/prosaquib/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"/>
